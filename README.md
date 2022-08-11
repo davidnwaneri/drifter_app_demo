@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-A link to the code on branch [dev]
+A link to the code on [dev branch](https://github.com/davidnwaneri/drifter_app_demo/tree/dev)
+
+Live demo below:
 
 <img align="center" style="margin:1rem 0.5rem" src="assets/app.gif" width="260" />
 
