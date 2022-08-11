@@ -1,0 +1,86 @@
+{
+    "categories": [
+        "sneakers",
+        "sport",
+        "ultraboost",
+        "adilette"
+    ],
+    "shoes": [
+        {
+            "name": "Superstar shoes",
+            "price": 120,
+            "rating": 4.0,
+            "image": "assets/images/shoe1.png",
+            "category": [
+                "sneakers",
+                "sport"
+            ],
+            "colours": [
+                "Cloud white",
+                "Core Black",
+                "Solar Red"
+            ]
+        },
+        {
+            "name": "Nike Air Max",
+            "price": 310,
+            "rating": 5.0,
+            "image": "assets/images/shoe2.png",
+            "category": [
+                "ultraboost",
+                "adilette"
+            ],
+            "colours": [
+                "Cloud white",
+                "Core Black",
+                "Solar Yellow"
+            ]
+        },
+        {
+            "name": "Nike Jordan",
+            "price": 240,
+            "rating": 4.0,
+            "image": "assets/images/shoe3.png",
+            "category": [
+                "adilette",
+                "sneakers"
+            ],
+            "colours": [
+                "Cloud white",
+                "Silver Metallic",
+                "Solar Yellow"
+            ]
+        },
+        {
+            "name": "All Star shoes",
+            "price": 150,
+            "rating": 5.0,
+            "image": "assets/images/shoe4.png",
+            "category": [
+                "ultraboost",
+                "sneakers"
+            ],
+            "colours": [
+                "Solar Yellow",
+                "Core Black",
+                "Solar Red"
+            ]
+        },
+        {
+            "name": "Air Max",
+            "price": 400,
+            "rating": 3.0,
+            "image": "assets/images/shoe5.png",
+            "category": [
+                "ultraboost",
+                "sneakers",
+                "sport"
+            ],
+            "colours": [
+                "Solar Yellow",
+                "Silver Metallic",
+                "Solar Red"
+            ]
+        }
+    ]
+}
